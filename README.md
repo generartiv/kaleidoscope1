@@ -1,3 +1,6 @@
 # kaleidoscope1
 
-Ensemble de shapes qui recopies des portions d'une image d'origine.
+Sketche Processing.
+Ensemble de shapes qui recopie et symetrise des portions d'une image d'origine.
+
+L'image d'origine doit etre placée dans le repertoire "data" du projet.
